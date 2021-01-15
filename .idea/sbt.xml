@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\heliang\Software\sbt-1.2.8\sbt\bin\sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$PROJECT_DIR$/../../../Software/jdk1.8.0_64_package/jdk1.8.0_65" />
+    <option name="vmParameters" value="-Dsbt.log.format=true -Dfile.encoding=UTF8 -Dsbt.boot.directory=D:/heliang/Software/sbt-1.2.8/sbt/data/.sbt/boot -Dsbt.global.base=D:/heliang/Software/sbt-1.2.8/sbt/data/.sbt -Dsbt.ivy.home=D:/heliang/Software/sbt-1.2.8/sbt/data/.ivy2 -Dsbt.repository.config=D:/heliang/Software/sbt-1.2.8/sbt/conf/repo.properties -Dsbt.repository.secure=false -Dsbt.override.build.repos=true -Xmx512M -Xss2M -XX:+CMSClassUnloadingEnabled" />
+  </component>
+</project>
